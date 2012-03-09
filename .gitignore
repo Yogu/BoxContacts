@@ -1,0 +1,10 @@
+# Generated Files
+bin/
+gen/
+
+# Linux Temporary Files
+.directory
+
+# Windows Temporary files
+Thumbs.db
+
